@@ -1,1 +1,1 @@
-# 팀 fiding의 프로젝트 개발을 위한 과정
+# Team FIDING AirQualityBigDataAnalysis
